@@ -11,4 +11,4 @@ This is my personal repository to solve Data Structure and Algorithms problems t
 
 ### Credits & References
 
-I am following the [S30](https://www.thesuper30.com/) Github repo to learn and solve DSA problems 
+I am following the [S30](https://github.com/super30admin?tab=repositories) Github repo to learn and solve DSA problems 
