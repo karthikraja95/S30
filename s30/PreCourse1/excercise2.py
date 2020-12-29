@@ -1,3 +1,6 @@
+# Implement Stack Using Linked List
+
+
 class Node:
     def __init__(self, data):
         self.data = data
@@ -5,14 +8,30 @@ class Node:
 
 
 class Stack:
+
+    # Initializing a Stack
     def __init__(self):
-        pass
+        self.head = None
 
+    # Push a value into the head of the stack
     def push(self, data):
-        pass
 
+        if self.head is None:
+            self.head = Node(data)
+        else:
+            new_node = Node(data)
+            new_node.next = self.head
+            self.head = new_node
+
+    # Remove and return a value in the head of the stack
     def pop(self):
-        pass
+
+        if self.head is None:
+            return None
+        else:
+            remove = self.head.data
+            self.head = self.head.next
+            return remove
 
 
 a_stack = Stack()
