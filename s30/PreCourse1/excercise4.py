@@ -10,14 +10,32 @@ class newNode:
 
 
 def inorder(temp):
-    pass
+    if not temp:
+        return
+    inorder(temp.left)
+    print(temp.key)
+    inorder(temp.right)
 
 
 """function to insert element in binary tree """
 
 
 def insert(temp, key):
-    pass
+    new_node = newNode(key)
+    if temp is None:
+        temp = new_node
+    else:
+        if temp.key > new_node.key:
+            if temp.left is None:
+                temp.left = new_node
+            else:
+                insert(temp.left, new_node.key)
+
+        else:
+            if temp.right is None:
+                temp.right = new_node
+            else:
+                insert(temp.right, new_node.key)
 
 
 # Driver code
