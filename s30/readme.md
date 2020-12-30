@@ -4,7 +4,9 @@ This repository contains step by step learning curriculum of how I solved approx
 
 ### Newbie to Expert
 
-- [PreCourse1](https://github.com/karthikraja95/S30/tree/master/s30/PreCourse1)
+- [PreCourse1](https://github.com/karthikraja95/S30/tree/master/s30/PreCourse1) - Stack, LinkedList, Binary Tree, etc
+
+- [PreCourse2](https://github.com/karthikraja95/S30/tree/master/s30/PreCourse2) - Binary Search, Quick Sort, Merge Sort, etc
 
 
 ** This repository will be constantly updated as I learn new concepts **
