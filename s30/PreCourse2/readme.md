@@ -20,3 +20,8 @@ These excercises gives us an high level understanding of Data Structure and Algo
 - Find Mid Point of a Singly Linked List
     - https://www.youtube.com/watch?v=BrmGrIPGbgk
     - https://www.geeksforgeeks.org/python-program-to-find-middle-of-a-linked-list-using-one-traversal/
+
+- Merge Sort
+    - https://youtu.be/JSceec-wEyw
+    - https://www.geeksforgeeks.org/merge-sort/
+    - https://stackabuse.com/merge-sort-in-python/
