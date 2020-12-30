@@ -25,3 +25,6 @@ These excercises gives us an high level understanding of Data Structure and Algo
     - https://youtu.be/JSceec-wEyw
     - https://www.geeksforgeeks.org/merge-sort/
     - https://stackabuse.com/merge-sort-in-python/
+
+- Iterative Quick Sort
+    - https://www.geeksforgeeks.org/python-program-for-iterative-quick-sort/
