@@ -16,3 +16,7 @@ These excercises gives us an high level understanding of Data Structure and Algo
 - Quick Sort
     - https://stackabuse.com/quicksort-in-python/
     - https://www.geeksforgeeks.org/python-program-for-quicksort/
+
+- Find Mid Point of a Singly Linked List
+    - https://www.youtube.com/watch?v=BrmGrIPGbgk
+    - https://www.geeksforgeeks.org/python-program-to-find-middle-of-a-linked-list-using-one-traversal/
