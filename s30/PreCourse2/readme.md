@@ -12,4 +12,7 @@ These excercises gives us an high level understanding of Data Structure and Algo
 
 - Iterative Binary Search
     - https://www.geeksforgeeks.org/python-program-for-binary-search/
-    
+
+- Quick Sort
+    - https://stackabuse.com/quicksort-in-python/
+    - https://www.geeksforgeeks.org/python-program-for-quicksort/
