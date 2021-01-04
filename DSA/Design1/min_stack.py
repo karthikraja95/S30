@@ -33,7 +33,7 @@ class MinStack:
         if popped == self.min:
             # if the stack is not empty
             if len(self.stack) > 0:
-                self.min = min(self.min)
+                self.min = min(self.stack)
             else:
                 # assign min to inf
                 self.min = inf
