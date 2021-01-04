@@ -14,6 +14,8 @@ Notes:
     You must use only standard operations of a stack, which means only push to top, peek/pop from top, size, and is empty operations are valid.
     Depending on your language, the stack may not be supported natively. You may simulate a stack using a list or deque (double-ended queue) as long as you use only a stack's standard operations.
 
+Full Problem - https://leetcode.com/problems/implement-queue-using-stacks/
+
 ## Design HashSet
 
 Design a HashSet without using any built-in hash table libraries.
@@ -29,3 +31,5 @@ Note:
     All values will be in the range of [0, 1000000].
     The number of operations will be in the range of [1, 10000].
     Please do not use the built-in HashSet library
+
+Full Problem - https://leetcode.com/problems/design-hashset/
