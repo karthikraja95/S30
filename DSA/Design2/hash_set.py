@@ -16,19 +16,20 @@ class MyHashSet:
     def add(self, key: int) -> None:
         index = self.hash_function_1(key)
         nested_index = self.hash_function_2(key)
-        # if the indx1 of bucket is empty , created nested leaf
+        # Check if the index of storage is Null, then create a nested storage
         if self.storage[index] is None:
             self.storage[index] = [None] * self.bucket_items
-        # should change to True
+        # If the index of storage is not empty, it should return True
         self.storage[index][nested_index] = True
 
     def remove(self, key: int) -> None:
         index = self.hash_function_1(key)
         nested_index = self.hash_function_2(key)
-        # if the indx1 of bucket is empty ,return nothing else set that index as False
+        # Check if the index of storage is Null, then return nothing
         if self.storage[index] is None:
             return
         else:
+            # If the index of storage is not empty, it should return False
             self.storage[index][nested_index] = False
 
     def contains(self, key: int) -> bool:
@@ -38,9 +39,10 @@ class MyHashSet:
         index = self.hash_function_1(key)
         nested_index = self.hash_function_2(key)
 
+        # Check if the Storgae is empty then retrun False
         if self.storage[index] is None:
             return False
-        # return the bool if bucket not none
+        # return the bool if the Storage is not empty
         return self.storage[index][nested_index]
 
 
