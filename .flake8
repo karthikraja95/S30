@@ -5,3 +5,4 @@ ignore =
     # these rules don't play well with black
     E203  # whitespace before :
     W503  # line break before binary operator
+    F821 # Ignore undefined variable/name
