@@ -16,6 +16,8 @@ Note:
 
 Full Problem - https://leetcode.com/problems/design-hashmap/
 
+Resource - https://medium.com/analytics-vidhya/design-a-hashmap-day-1-python-8c5e463a0629
+
 
 ## Design Min Stack
 
