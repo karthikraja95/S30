@@ -1,4 +1,6 @@
 class Solution:
+
+    # Time Complexity O(log(n))
     def findMin(self, nums: List[int]) -> int:
         if len(nums) == 1:
             return nums[0]
