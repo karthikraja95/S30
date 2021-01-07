@@ -1,4 +1,5 @@
 class Solution:
+    # Time Complexity O(log(n))
     def searchRange(self, nums: List[int], target: int) -> List[int]:
 
         if nums is None or len(nums) == 0:
