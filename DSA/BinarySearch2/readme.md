@@ -39,3 +39,13 @@ Output: 1
 Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 
 Full Problem: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+## Find the Peak Element
+
+A peak element is an element that is strictly greater than its neighbors.
+
+Given an integer array nums, find a peak element, and return its index. If the array contains multiple peaks, return the index to any of the peaks.
+
+You may imagine that nums[-1] = nums[n] = -∞.
+
+Full Problem: https://leetcode.com/problems/find-peak-element/
