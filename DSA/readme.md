@@ -8,7 +8,7 @@ This repository contains step by step learning curriculum of how I solved approx
 
 - [PreCourse2](https://github.com/karthikraja95/S30/tree/master/DSA/PreCourse2) - Binary Search, Quick Sort, Merge Sort, etc
 
-- [Design1](https://github.com/karthikraja95/S30/tree/master/DSA/Design1) - Design HasMap, Design MinStack
+- [Design1](https://github.com/karthikraja95/S30/tree/master/DSA/Design1) - Design HashMap, Design MinStack
 
 - [Design2](https://github.com/karthikraja95/S30/tree/master/DSA/Design2) - Implement Queue using Stack, Design Hashset
 
