@@ -18,7 +18,7 @@ return maxlength
 
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        if nums is null or len(nums) == 0:
+        if nums is None or len(nums) == 0:
             return 0
         d = {0: -1}  # {count:index}
         maxlen = 0
